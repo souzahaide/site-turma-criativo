@@ -1,10 +1,11 @@
 body {
-    background: #038c91f8;
+    background: #dcafa9f8;
 }
 
-#tec2 {
-    width: 60%;
-    height: 80%;
+#tec2 
+   img{ text-align: center;
+    width: 50%;
+    height: 100%;
 }
 
 h1 {
@@ -20,15 +21,15 @@ h3 {
 }
 
 p {
-    text-align: center;
+   text-align: center;
 }
 
 #missão {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 em strong {
-    color: #0011ff;
+    color: rgb(110, 81, 81);
 }
 
 .itens {
@@ -36,7 +37,7 @@ em strong {
 }
 
 #videotec {
-    width: 60%;
+    width: 50%;
     height: 80%;
 }
 
